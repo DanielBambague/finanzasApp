@@ -23,4 +23,4 @@ Una aplicación de escritorio desarrollada en **C# y Windows Forms** para gestio
 1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/DanielBambague/FinanzasApp.git
-   cd gestion-gastos
+   cd FinanzasApp
